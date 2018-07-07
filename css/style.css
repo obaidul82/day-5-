@@ -1,0 +1,186 @@
+/*header start*/
+.header {
+	background-color: #FFFEFF;
+	overflow: hidden;
+}
+
+.logo {
+	overflow: hidden;
+	width: 20%;
+	float: left;
+}
+.logo img{
+	margin-top: 10px;
+}
+
+.logo_content {
+	float: right;
+	    font-size: 21px;
+	    color: #3E5365;
+}
+
+.manu {
+	width: 60%;
+	overflow: hidden;
+	float: right;
+}
+.manu ul {
+	list-style: none;
+	float: right;
+}
+.manu ul li {
+	float: left;
+}
+.manu ul li a {
+	text-decoration: none;
+	padding: 10px;
+	display: block;
+	color: #5F5353;
+}
+.manu ul li a: hover {
+	color: #535963;
+		transition: 1s;
+}
+
+}
+/*header end*/
+/*banner start*/ 
+}
+.banner{
+	overflow: hidden;
+}
+.banner_content {
+	overflow: hidden;
+	padding: 0px;
+	text-align: center;
+	color: #5F5353;
+}
+.banner_content h1{
+font-size: 50px;
+text-align: center;
+margin-top: o;
+padding-top: 0px;
+}
+.banner_content p{
+font-size: 30px;
+margin-top: 0;
+text-align: center;
+padding-top: 0px;
+}
+/*banner end*/
+/*service start*/
+.service {
+	overflow: hidden;
+	padding: 10px 5px;
+	background-color: #AFD1FF;
+}
+.service_top {
+	overflow: hidden;
+}
+
+.our_villas {
+	border: 1px solid grey;
+	background-color: #E2E8F4;
+	overflow: hidden;
+	width: 20%;
+	float: left;
+	border-radius: 5px;
+}
+.add_margin{
+	margin-left: 1px;
+}
+
+.title {
+	font-size: 20px;
+    text-align: center;
+}
+
+.icon_photo {
+}
+
+.content {
+margin: 5px; 
+}
+
+.more {
+	text-align: center;
+	color: grey;
+	margin: 5px;
+	padding: 10px;
+}
+.our_service {
+	border: 1px solid grey;
+	overflow: hidden;
+	background-color: #E2E8F4;
+	width: 20%;
+	float: left;
+	border-radius: 5px;
+	margin-left: 200px;
+}
+
+.title {
+	text-align: center;
+	font-size: 20px;
+}
+
+.icon_photo {
+}
+
+.content {
+	margin: 5px;
+}
+
+.more {
+	text-align: center;
+	margin: 5px;
+}
+.our_condos {
+	border: 1px solid grey;
+	overflow: hidden;
+	background-color: #E2E8F4;
+	width: 20%;
+	float: right;
+	border-radius: 5px;
+}
+
+.title {
+	text-align: center;
+	font-size: 20px;
+}
+
+.icon_photo {
+}
+
+.content {
+	margin: 5px;
+}
+
+.more {
+	text-align: center;
+
+	margin: 5px;
+}
+.service_bottom {
+	overflow: hidden;
+	background-color: #AC9492;
+}
+.bottom_1 {
+	text-align: center;
+}
+.bottom_2 {
+	overflow: hidden;
+	height: 100px;
+	width: 30%;
+	margin-left: 45%;
+	padding: left 40px;
+}
+.facebook{
+	float: left;
+}
+.google{
+	float: left;
+}
+.twitter {
+	float: left;
+}
+/*service end*/
